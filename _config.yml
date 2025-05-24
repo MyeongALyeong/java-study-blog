@@ -1,0 +1,6 @@
+# _config.yml
+title: "Java Study Blog"
+description: "자바 언어 학습용 기술 블로그"
+baseurl: "/java-study-blog"
+url: "https://MyeongALyeong.github.io"
+theme: minima
